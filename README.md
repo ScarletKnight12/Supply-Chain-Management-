@@ -2,7 +2,7 @@
 A supply Chain Management system for an auction setting and UI and metamask wallet, using Ethereum and Solidity.
 
 ## Technologies:
-Web3.0, JS, React JS, Ganache, Ethereum, Solidity, Metamask
+Web3.0, JS, React JS, Ganache, Ethereum, Solidity, Metamask, Truffle
 <br/>
 Editor: Visual Studio Code
 ## Supply-Chain Management using Solidity and Ethereum
