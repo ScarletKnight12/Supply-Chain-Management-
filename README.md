@@ -1,7 +1,11 @@
 # Supply-Chain-Management-
 A supply Chain Management system for an auction setting and UI and metamask wallet, using Ethereum and Solidity.
 
-## Supply-Chain Management
+## Technologies:
+Web3.0, JS, React JS, Ganache, Ethereum, Solidity, Metamask
+<br/>
+Editor: Visual Studio Code
+## Supply-Chain Management using Solidity and Ethereum
 Task: creating a transparent supply chain which
 can be used by 5 clients and their customers.
 The clients are either Suppliers, Manufacturers or Customers.
@@ -73,4 +77,15 @@ the materials are from said supplier and product is from said
 manufacturer).
 —--------------------------------------------------------------
 Fig. A description of the supply chain
-![image](https://user-images.githubusercontent.com/31008590/202523703-9d85f5f3-30d7-4024-983c-b66ac9a2f93f.png)
+![Screenshot (369)](https://user-images.githubusercontent.com/31008590/202524211-ef0ce573-175c-4f29-81c9-d30f17f40403.png)
+
+## UI using ReactJS and connection to Wallet service(Metamask):
+Task:To create a frontend platform, accessible through a
+web-browser, for the Supply-chain management which was created using
+smart-contract on Ethereum blockchain. 
+<br/>
+Tools required:
+● Metamask (for in browser wallet-management)
+● web3.js package for calling smart-contract functions
+We build a frontend solution for the contract developed
+previously.
